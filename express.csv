@@ -1,0 +1,6 @@
+from_stop_name,to_stop_name,line,GTFS_ID_from,GTFS_ID_to
+3 Av-138 St,Hunts Point Av,6x,619,613
+Hunts Point Av,Parkchester,6x,613,608
+Parkchester,Castle Hill,6x,608,607
+Jackson Heights Roosevelt Ave, Junction Blvd,7x
+Junction Blvd, Mets-Willets Point,7x
