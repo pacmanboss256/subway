@@ -1,0 +1,77 @@
+stops,lines,time,stop1,stop2,stop 1 count,stop 2 count
+"('120', '123')",1,180.0,96 St,72 St,4,2
+"('123', '127')",1,240.0,72 St,Times Sq-42 St,2,4
+"('128', '132')",1,178.52941176470588,34 St-Penn Station,14 St,3,4
+"('132', '137')",1,278.61386138613864,14 St,Chambers St,3,3
+"('213', '221')",2,702.6315789473684,E 180 St,3 Av-149 St,2,2
+"('214', '215')",2,120.0,West Farms Sq-E Tremont Av,174 St,1,1
+"('235', '239')",2,306.2608695652174,Atlantic Av-Barclays Ctr,Franklin Av-Medgar Evers College,5,2
+"('239', '250')",3,238.73239436619718,Franklin Av-Medgar Evers College,Crown Hts-Utica Av,2,1
+"('235', '239')",3,306.2608695652174,Atlantic Av-Barclays Ctr,Franklin Av-Medgar Evers College,5,2
+"('621', '626')",6,355.1694915254237,125 St,86 St,6,3
+"('626', '629')",6,215.33898305084745,86 St,59 St,3,3
+"('631', '635')",6,230.59322033898306,Grand Central-42 St,14 St-Union Sq,3,5
+"('629', '631')",6,147.71186440677965,59 St,Grand Central-42 St,2,3
+"('635', '640')",6,290.7692307692308,14 St-Union Sq,Brooklyn Bridge-City Hall,3,3
+"('621', '626')",6x,355.1694915254237,125 St,86 St,6,3
+"('626', '629')",6x,215.33898305084745,86 St,59 St,3,3
+"('631', '635')",6x,230.59322033898306,Grand Central-42 St,14 St-Union Sq,3,5
+"('629', '631')",6x,147.71186440677965,59 St,Grand Central-42 St,2,3
+"('635', '640')",6x,290.7692307692308,14 St-Union Sq,Brooklyn Bridge-City Hall,3,3
+"('710', '712')",7,150.0,74 St-Broadway,61 St-Woodside,2,2
+"('712', '714')",7,180.0,61 St-Woodside,46 St-Bliss St,2,2
+"('702', '705')",7x,150.0,Mets-Willets Point,111 St,1,1
+"('705', '706')",7x,85.86206896551724,111 St,103 St-Corona Plaza,1,1
+"('706', '707')",7x,90.0,103 St-Corona Plaza,Junction Blvd,1,1
+"('707', '708')",7x,73.6842105263158,Junction Blvd,90 St-Elmhurst Av,1,1
+"('708', '709')",7x,90.0,90 St-Elmhurst Av,82 St-Jackson Hts,1,1
+"('709', '710')",7x,85.78947368421052,82 St-Jackson Hts,74 St-Broadway,1,1
+"('710', '712')",7x,150.0,74 St-Broadway,61 St-Woodside,2,2
+"('712', '714')",7x,180.0,61 St-Woodside,46 St-Bliss St,2,2
+"('D05', 'D07')",B,180.0,Fordham Rd,Tremont Av,2,2
+"('D07', 'D13')",B,461.05263157894734,Tremont Av,145 St,2,4
+"('A15', 'D13')",B,216.0,125 St,145 St,6,4
+"('A15', 'A24')",B,452.5531914893617,125 St,59 St-Columbus Circle,6,2
+"('A48', 'A51')",C,209.4,Utica Av,Broadway Junction,1,2
+"('A24', 'A27')",C,209.4,59 St-Columbus Circle,42 St-Port Authority Bus Terminal,2,2
+"('A51', 'A55')",C,293.265306122449,Broadway Junction,Euclid Av,2,1
+"('A42', 'A46')",C,300.0,Hoyt-Schermerhorn Sts,Nostrand Av,1,1
+"('A46', 'A48')",C,151.1764705882353,Nostrand Av,Utica Av,1,1
+"('A09', 'A12')",C,202.35294117647058,168 St,145 St,1,4
+"('A12', 'A15')",C,208.8235294117647,145 St,125 St,1,5
+"('A27', 'A28')",C,84.66257668711657,42 St-Port Authority Bus Terminal,34 St-Penn Station,1,2
+"('A28', 'A31')",C,195.2941176470588,34 St-Penn Station,14 St,3,4
+"('A32', 'A34')",C,150.0,W 4 St-Wash Sq,Canal St,3,5
+"('A15', 'A24')",C,452.5531914893617,125 St,59 St-Columbus Circle,6,2
+"('F05', 'F06')",E,120.0,Briarwood,Kew Gardens-Union Tpke,1,1
+"('F06', 'F07')",E,120.0,Kew Gardens-Union Tpke,75 Av,2,1
+"('F07', 'G08')",E,120.0,75 Av,Forest Hills-71 Av,1,2
+"('A27', 'A28')",E,84.66257668711657,42 St-Port Authority Bus Terminal,34 St-Penn Station,1,2
+"('A28', 'A31')",E,195.2941176470588,34 St-Penn Station,14 St,3,4
+"('A32', 'A34')",E,150.0,W 4 St-Wash Sq,Canal St,3,5
+"('F06', 'G08')",F,166.36363636363637,Kew Gardens-Union Tpke,Forest Hills-71 Av,2,2
+"('D17', 'D20')",F,210.0,34 St-Herald Sq,W 4 St-Wash Sq,4,3
+"('F24', 'F27')",G,240.0,7 Av,Church Av,4,4
+"('J12', 'J14')",J,180.0,121 St,104 St,1,1
+"('J17', 'J20')",J,150.0,75 St-Elderts Ln,Crescent St,1,1
+"('J15', 'J17')",J,180.0,Woodhaven Blvd,75 St-Elderts Ln,2,1
+"('J28', 'J30')",J,150.0,Chauncey St,Gates Av,1,1
+"('J30', 'M11')",J,180.0,Gates Av,Myrtle Av,1,1
+"('J21', 'J23')",J,150.0,Norwood Av,Van Siclen Av,1,1
+"('M11', 'M16')",M,240.0,Myrtle Av,Marcy Av,2,2
+"('G14', 'G21')",M,369.2957746478873,Jackson Hts-Roosevelt Av,Queens Plaza,2,3
+"('G08', 'G14')",M,350.71942446043164,Forest Hills-71 Av,Jackson Hts-Roosevelt Av,2,2
+"('D17', 'D20')",M,210.0,34 St-Herald Sq,W 4 St-Wash Sq,4,3
+"('R14', 'R16')",N,180.0,57 St-7 Av,Times Sq-42 St,2,4
+"('D26', 'D28')",Q,120.0,Prospect Park,Church Av,1,4
+"('D28', 'D31')",Q,150.0,Church Av,Newkirk Plaza,2,1
+"('D31', 'D35')",Q,270.0,Newkirk Plaza,Kings Hwy,1,1
+"('D35', 'D39')",Q,240.0,Kings Hwy,Sheepshead Bay,1,1
+"('R36', 'R41')",R,242.0,36 St,59 St,2,3
+"('R31', 'R36')",R,354.0,Atlantic Av-Barclays Ctr,36 St,5,2
+"('G14', 'G21')",R,369.2957746478873,Jackson Hts-Roosevelt Av,Queens Plaza,2,3
+"('G08', 'G14')",R,350.71942446043164,Forest Hills-71 Av,Jackson Hts-Roosevelt Av,2,2
+"('R17', 'R20')",R,180.0,34 St-Herald Sq,14 St-Union Sq,4,5
+"('R14', 'R16')",R,180.0,57 St-7 Av,Times Sq-42 St,2,4
+"('R17', 'R20')",W,180.0,34 St-Herald Sq,14 St-Union Sq,4,5
+"('R14', 'R16')",W,180.0,57 St-7 Av,Times Sq-42 St,2,4
