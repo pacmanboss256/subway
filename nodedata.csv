@@ -1,0 +1,476 @@
+,GTFS Stop ID,Complex ID,Stop Name,lines
+127,127,611,Times Sq-42 St,"['3', '2', '1']"
+S01,S01,627,Franklin Av,['FS']
+254,254,349,Junius St,['3']
+M01,M01,108,Middle Village-Metropolitan Av,['M']
+726,726,471,34 St-Hudson Yards,"['7X', '7']"
+713,713,457,52 St,"['7X', '7']"
+615,615,373,E 149 St,['6']
+M11,M11,97,Myrtle Av,"['J', 'M']"
+F16,F16,234,East Broadway,['F']
+F33,F33,248,Avenue N,['F']
+233,233,336,Hoyt St,"['3', '2']"
+M05,M05,110,Forest Av,['M']
+R43,R43,37,77 St,['R']
+A36,A36,624,Chambers St,"['A', 'C']"
+604,604,363,Westchester Sq-E Tremont Av,"['6X', '6']"
+D09,D09,217,170 St,"['D', 'B']"
+629,629,613,59 St,"['4', '5', '6X', '6']"
+219,219,432,Prospect Av,"['2', '5']"
+F39,F39,253,Neptune Av,['F']
+N09,N09,78,Avenue U,['N']
+610,610,368,Morrison Av-Soundview,['6']
+F32,F32,247,Bay Pkwy,['F']
+R13,R13,8,5 Av/59 St,"['R', 'W', 'N']"
+B22,B22,69,25 Av,['D']
+622,622,393,116 St,"['6X', '6']"
+H14,H14,202,Beach 105 St,['H']
+F05,F05,258,Briarwood,['F']
+R19,R19,14,23 St,"['R', 'W']"
+R18,R18,13,28 St,"['R', 'W']"
+114,114,304,145 St,['1']
+A03,A03,144,Dyckman St,['A']
+M16,M16,101,Marcy Av,"['J', 'M']"
+720,720,463,Hunters Point Av,"['7X', '7']"
+A16,A16,154,116 St,"['C', 'B']"
+A41,A41,636,Jay St-MetroTech,"['A', 'C', 'F']"
+R39,R39,33,45 St,['R']
+A52,A52,185,Liberty Av,['C']
+G34,G34,290,Classon Av,['G']
+D30,D30,46,Cortelyou Rd,['Q']
+G20,G20,272,36 St,"['M', 'R']"
+418,418,628,Fulton St,"['4', '5']"
+212,212,425,Bronx Park East,['2']
+503,503,444,Gun Hill Rd,['5']
+B18,B18,65,79 St,['D']
+G29,G29,629,Metropolitan Av,['G']
+G21,G21,273,Queens Plaza,"['R', 'M', 'E']"
+406,406,381,Kingsbridge Rd,['4']
+R23,R23,623,Canal St,"['R', 'W']"
+110,110,300,191 St,['1']
+G09,G09,262,67 Av,"['M', 'R']"
+A51,A51,621,Broadway Junction,"['A', 'C']"
+R01,R01,1,Astoria-Ditmars Blvd,"['W', 'N']"
+246,246,358,Newkirk Av-Little Haiti,"['2', '5']"
+L15,L15,126,Jefferson St,['L']
+725,725,611,Times Sq-42 St,"['7X', '7']"
+H01,H01,196,Aqueduct Racetrack,['A']
+J22,J22,89,Cleveland St,['J']
+A20,A20,158,86 St,"['C', 'B']"
+A57,A57,189,Grant Av,['A']
+G15,G15,268,65 St,"['R', 'M']"
+D34,D34,50,Avenue M,['Q']
+103,103,294,238 St,['1']
+238,238,341,Eastern Pkwy-Brooklyn Museum,"['3', '2']"
+637,637,619,Bleecker St,"['6X', '6']"
+D29,D29,45,Beverley Rd,['Q']
+705,705,449,111 St,['7']
+A15,A15,153,125 St,"['A', 'C', 'B', 'D']"
+D18,D18,228,23 St,"['M', 'F']"
+419,419,413,Wall St,"['4', '5']"
+N08,N08,77,Kings Hwy,['N']
+115,115,305,137 St-City College,['1']
+226,226,440,116 St,"['3', '2']"
+136,136,326,Franklin St,['1']
+410,410,385,176 St,['4']
+D14,D14,277,7 Av,"['D', 'B', 'E']"
+D08,D08,216,174-175 Sts,"['D', 'B']"
+M20,M20,623,Canal St,['J']
+L10,L10,629,Lorimer St,['L']
+A30,A30,165,23 St,"['C', 'E']"
+A46,A46,179,Nostrand Av,"['A', 'C']"
+N03,N03,72,Fort Hamilton Pkwy,['N']
+504,504,445,Pelham Pkwy,['5']
+R06,R06,5,36 Av,"['N', 'W']"
+D03,D03,211,Bedford Park Blvd,"['D', 'B']"
+619,619,377,3 Av-138 St,"['6X', '6']"
+M10,M10,114,Central Av,['M']
+242,242,354,Sterling St,"['2', '5']"
+F22,F22,238,Smith-9 Sts,"['G', 'F']"
+611,611,369,Elder Av,['6']
+Q05,Q05,475,96 St,['Q']
+229,229,628,Fulton St,"['3', '2']"
+M04,M04,109,Fresh Pond Rd,['M']
+A10,A10,149,163 St-Amsterdam Av,['C']
+R30,R30,26,DeKalb Av,"['R', 'B', 'Q']"
+633,633,404,28 St,"['6X', '6']"
+119,119,309,103 St,['1']
+B04,B04,221,21 St-Queensbridge,['F']
+204,204,417,Nereid Av,['2']
+J14,J14,82,104 St,['J']
+L24,L24,133,Atlantic Av,['L']
+R29,R29,636,Jay St-MetroTech,['R']
+234,234,337,Nevins St,"['3', '2', '5', '4']"
+L25,L25,134,Sutter Av,['L']
+D24,D24,617,Atlantic Av-Barclays Ctr,"['B', 'Q']"
+606,606,364,Zerega Av,"['6X', '6']"
+F27,F27,243,Church Av,"['G', 'F']"
+D42,D42,57,W 8 St-NY Aquarium,"['F', 'Q']"
+F34,F34,249,Avenue P,['F']
+414,414,604,161 St-Yankee Stadium,['4']
+301,301,436,Harlem-148 St,['3']
+132,132,601,14 St,"['3', '2', '1']"
+H08,H08,206,Beach 44 St,['A']
+218,218,431,Intervale Av,"['2', '5']"
+201,201,416,Wakefield-241 St,['2']
+F15,F15,625,Delancey St-Essex St,['F']
+J13,J13,81,111 St,['J']
+F01,F01,254,Jamaica-179 St,['F']
+614,614,372,Longwood Av,['6']
+118,118,308,Cathedral Pkwy (110 St),['1']
+R14,R14,9,57 St-7 Av,"['N', 'R', 'W', 'Q']"
+607,607,365,Castle Hill Av,"['6X', '6']"
+B21,B21,68,Bay Pkwy,['D']
+623,623,394,110 St,"['6X', '6']"
+230,230,333,Wall St,"['3', '2']"
+H13,H13,201,Beach 98 St,['H']
+R15,R15,10,49 St,"['R', 'N', 'W']"
+D12,D12,220,155 St,"['D', 'B']"
+255,255,350,Pennsylvania Av,['3']
+714,714,458,46 St-Bliss St,"['7X', '7']"
+213,213,426,E 180 St,"['2', '5']"
+409,409,384,Burnside Av,['4']
+Q04,Q04,476,86 St,['Q']
+F12,F12,276,5 Av/53 St,"['M', 'E']"
+G30,G30,286,Broadway,['G']
+A24,A24,614,59 St-Columbus Circle,"['D', 'C', 'A', 'B']"
+R25,R25,624,Cortlandt St,"['R', 'W']"
+208,208,421,Gun Hill Rd,['2']
+128,128,318,34 St-Penn Station,"['3', '2', '1']"
+D38,D38,53,Neck Rd,['Q']
+A61,A61,192,Rockaway Blvd,['A']
+R42,R42,36,Bay Ridge Av,['R']
+D43,D43,58,Coney Island-Stillwell Av,"['D', 'F', 'N', 'Q']"
+628,628,399,68 St-Hunter College,"['6X', '6']"
+G16,G16,269,Northern Blvd,"['R', 'M']"
+L29,L29,138,Canarsie-Rockaway Pkwy,['L']
+A31,A31,618,14 St,"['A', 'C', 'E']"
+G22,G22,606,Court Sq,['G']
+237,237,340,Grand Army Plaza,"['3', '2']"
+J31,J31,96,Kosciuszko St,['J']
+D19,D19,601,14 St,"['M', 'F']"
+M09,M09,113,Knickerbocker Av,['M']
+618,618,376,Brook Av,['6']
+H02,H02,197,Aqueduct-N Conduit Av,['A']
+123,123,313,72 St,"['3', '2', '1']"
+B17,B17,64,71 St,['D']
+250,250,345,Crown Hts-Utica Av,"['3', '4']"
+709,709,453,82 St-Jackson Hts,['7']
+J23,J23,90,Van Siclen Av,['J']
+L11,L11,122,Graham Av,['L']
+J17,J17,85,75 St-Elderts Ln,['J']
+702,702,448,Mets-Willets Point,"['7X', '7']"
+638,638,409,Spring St,"['6X', '6']"
+B10,B10,224,57 St,['F']
+227,227,441,110 St-Malcolm X Plaza,"['3', '2']"
+A19,A19,157,96 St,"['C', 'B']"
+R36,R36,32,36 St,"['D', 'R', 'N']"
+F04,F04,257,Sutphin Blvd,['F']
+A55,A55,188,Euclid Av,"['A', 'C']"
+R22,R22,17,Prince St,"['R', 'W']"
+111,111,301,181 St,['1']
+A34,A34,169,Canal St,"['A', 'C', 'E']"
+A02,A02,143,Inwood-207 St,['A']
+D33,D33,49,Avenue J,['Q']
+245,245,357,Beverly Rd,"['2', '5']"
+708,708,452,90 St-Elmhurst Av,['7']
+M14,M14,100,Hewes St,"['J', 'M']"
+405,405,380,Bedford Park Blvd-Lehman College,['4']
+L03,L03,602,14 St-Union Sq,['L']
+L14,L14,125,Morgan Av,['L']
+D15,D15,225,47-50 Sts-Rockefeller Ctr,"['D', 'F', 'M', 'B']"
+719,719,606,Court Sq,"['7X', '7']"
+135,135,325,Canal St,['1']
+A63,A63,193,104 St,['A']
+M21,M21,622,Chambers St,['J']
+L05,L05,118,3 Av,['L']
+D04,D04,212,Kingsbridge Rd,"['D', 'B']"
+249,249,344,Kingston Av,['3']
+R26,R26,22,Rector St,"['R', 'W']"
+J19,J19,86,Cypress Hills,['J']
+A40,A40,173,High St,"['A', 'C']"
+G08,G08,261,Forest Hills-71 Av,"['R', 'M', 'F', 'E']"
+L20,L20,130,Wilson Av,['L']
+G33,G33,289,Bedford-Nostrand Avs,['G']
+L26,L26,135,Livonia Av,['L']
+131,131,321,18 St,['1']
+L19,L19,129,Halsey St,['L']
+724,724,609,5 Av,"['7X', '7']"
+F21,F21,237,Carroll St,"['G', 'F']"
+241,241,353,President St-Medgar Evers College,"['2', '5']"
+F29,F29,244,Ditmas Av,['F']
+F35,F35,250,Kings Hwy,['F']
+415,415,603,149 St-Grand Concourse,['4']
+H07,H07,205,Beach 60 St,['A']
+222,222,603,149 St-Grand Concourse,"['2', '5']"
+R31,R31,617,Atlantic Av-Barclays Ctr,"['D', 'R', 'N']"
+209,209,422,Burke Av,['2']
+D25,D25,41,7 Av,"['B', 'Q']"
+D39,D39,54,Sheepshead Bay,"['B', 'Q']"
+B12,B12,59,9 Av,['D']
+A32,A32,167,W 4 St-Wash Sq,"['A', 'C', 'E']"
+G07,G07,280,Jamaica-Van Wyck,['E']
+G24,G24,282,21 St,['G']
+A11,A11,150,155 St,['C']
+413,413,388,167 St,['4']
+101,101,293,Van Cortlandt Park-242 St,['1']
+A25,A25,162,50 St,"['C', 'E']"
+632,632,403,33 St,"['6X', '6']"
+122,122,312,79 St,['1']
+A47,A47,180,Kingston-Throop Avs,['C']
+207,207,420,219 St,['2']
+G12,G12,265,Grand Av-Newtown,"['R', 'M']"
+N04,N04,615,New Utrecht Av,['N']
+A12,A12,151,145 St,"['A', 'C']"
+R05,R05,4,Broadway,"['W', 'N']"
+A43,A43,176,Lafayette Av,['C']
+D37,D37,52,Avenue U,['Q']
+A60,A60,191,88 St,['A']
+R35,R35,31,25 St,['R']
+G18,G18,270,46 St,"['R', 'M']"
+G36,G36,292,Fulton St,['G']
+639,639,623,Canal St,"['6X', '6']"
+423,423,620,Borough Hall,"['4', '5']"
+117,117,307,116 St-Columbia University,['1']
+608,608,366,Parkchester,"['6X', '6']"
+634,634,405,23 St,"['6X', '6']"
+H06,H06,204,Beach 67 St,['A']
+408,408,383,183 St,['4']
+F11,F11,612,Lexington Av/53 St,"['M', 'E']"
+D26,D26,42,Prospect Park,"['B', 'FS', 'Q']"
+129,129,319,28 St,['1']
+R24,R24,20,City Hall,"['R', 'W']"
+F07,F07,260,75 Av,['F']
+N05,N05,74,18 Av,['N']
+R16,R16,611,Times Sq-42 St,"['N', 'R', 'W', 'Q']"
+112,112,605,168 St-Washington Hts,['1']
+302,302,437,145 St,['3']
+A06,A06,146,181 St,['A']
+107,107,297,215 St,['1']
+J30,J30,95,Gates Av,['J']
+715,715,459,40 St-Lowery St,"['7X', '7']"
+F20,F20,236,Bergen St,"['G', 'F']"
+A48,A48,181,Utica Av,"['A', 'C']"
+Q03,Q03,477,72 St,['Q']
+231,231,334,Clark St,"['3', '2']"
+A22,A22,160,72 St,"['C', 'B']"
+A54,A54,187,Shepherd Av,['C']
+R41,R41,35,59 St,"['R', 'N']"
+A38,A38,628,Fulton St,"['A', 'C']"
+602,602,361,Buhre Av,"['6X', '6']"
+D11,D11,604,161 St-Yankee Stadium,"['D', 'B']"
+627,627,398,77 St,"['6X', '6']"
+D32,D32,48,Avenue H,['Q']
+139,139,329,Rector St,['1']
+R08,R08,6,39 Av-Dutch Kills,"['W', 'N']"
+D21,D21,619,Broadway-Lafayette St,"['D', 'F', 'M', 'B']"
+J12,J12,80,121 St,['J']
+134,134,324,Houston St,['1']
+F02,F02,255,169 St,['F']
+F30,F30,245,18 Av,['F']
+501,501,442,Eastchester-Dyre Av,['5']
+G31,G31,287,Flushing Av,['G']
+B16,B16,615,62 St,['D']
+251,251,346,Sutter Av-Rutland Rd,['3']
+214,214,427,West Farms Sq-E Tremont Av,"['2', '5']"
+624,624,395,103 St,"['6X', '6']"
+H10,H10,208,Beach 25 St,['A']
+M22,M22,628,Fulton St,['J']
+R21,R21,16,8 St-NYU,"['R', 'W']"
+L12,L12,123,Grand St,['L']
+902,902,611,Times Sq-42 St,['GS']
+256,256,351,Van Siclen Av,['3']
+701,701,447,Flushing-Main St,"['7X', '7']"
+S04,S04,626,Botanic Garden,['FS']
+D05,D05,213,Fordham Rd,"['D', 'B']"
+236,236,339,Bergen St,"['3', '2']"
+M08,M08,630,Myrtle-Wyckoff Avs,['M']
+124,124,314,66 St-Lincoln Center,['1']
+F24,F24,240,7 Av,"['G', 'F']"
+617,617,375,Cypress Av,['6']
+A18,A18,156,103 St,"['C', 'B']"
+H03,H03,198,Howard Beach-JFK Airport,['A']
+244,244,356,Church Av,"['2', '5']"
+710,710,616,74 St-Broadway,"['7X', '7']"
+J24,J24,91,Alabama Av,['J']
+L21,L21,131,Bushwick Av-Aberdeen St,['L']
+R32,R32,28,Union St,['R']
+631,631,610,Grand Central-42 St,"['4', '5', '6', '6X']"
+J16,J16,84,85 St-Forest Pkwy,['J']
+B08,B08,223,Lexington Av/63 St,"['F', 'Q']"
+R27,R27,635,Whitehall St-South Ferry,"['R', 'W']"
+217,217,430,Simpson St,"['2', '5']"
+L27,L27,136,New Lots Av,['L']
+210,210,423,Allerton Av,['2']
+D16,D16,609,42 St-Bryant Pk,"['D', 'M', 'F', 'B']"
+F36,F36,251,Avenue U,['F']
+416,416,391,138 St-Grand Concourse,"['4', '5']"
+B20,B20,67,20 Av,['D']
+B13,B13,60,Fort Hamilton Pkwy,['D']
+F25,F25,241,15 St-Prospect Park,"['G', 'F']"
+138,138,328,WTC Cortlandt,['1']
+D20,D20,167,W 4 St-Wash Sq,"['D', 'M', 'F', 'B']"
+G26,G26,283,Greenpoint Av,['G']
+M18,M18,625,Delancey St-Essex St,"['J', 'M']"
+L06,L06,119,1 Av,['L']
+D40,D40,55,Brighton Beach,"['B', 'Q']"
+A27,A27,611,42 St-Port Authority Bus Terminal,"['A', 'C', 'E']"
+R04,R04,3,30 Av,"['W', 'N']"
+402,402,379,Mosholu Pkwy,['4']
+H11,H11,209,Far Rockaway-Mott Av,['A']
+L02,L02,601,6 Av,['L']
+601,601,360,Pelham Bay Park,"['6X', '6']"
+723,723,610,Grand Central-42 St,"['7X', '7']"
+613,613,371,Hunts Point Av,"['6X', '6']"
+J20,J20,87,Crescent St,['J']
+A64,A64,194,111 St,['A']
+A07,A07,147,175 St,['A']
+106,106,296,Marble Hill-225 St,['1']
+121,121,311,86 St,['1']
+206,206,419,225 St,['2']
+G13,G13,266,Elmhurst Av,"['R', 'M']"
+635,635,602,14 St-Union Sq,"['4', '5', '6', '6X']"
+D13,D13,151,145 St,"['D', 'B']"
+D27,D27,43,Parkside Av,['Q']
+248,248,343,Nostrand Av,['3']
+707,707,451,Junction Blvd,"['7X', '7']"
+R44,R44,38,86 St,['R']
+412,412,387,170 St,['4']
+221,221,434,3 Av-149 St,"['2', '5']"
+108,108,298,207 St,['1']
+125,125,614,59 St-Columbus Circle,['1']
+H04,H04,199,Broad Channel,"['A', 'H']"
+A44,A44,177,Clinton-Washington Avs,['C']
+A49,A49,182,Ralph Av,['C']
+711,711,455,69 St,"['7X', '7']"
+B23,B23,70,Bay 50 St,['D']
+G11,G11,264,Woodhaven Blvd,"['R', 'M']"
+J27,J27,621,Broadway Junction,['J']
+L17,L17,630,Myrtle-Wyckoff Avs,['L']
+R09,R09,461,Queensboro Plaza,"['W', 'N']"
+M13,M13,99,Lorimer St,"['J', 'M']"
+G06,G06,279,Sutphin Blvd-Archer Av-JFK Airport,"['J', 'E']"
+716,716,460,33 St-Rawson St,"['7X', '7']"
+A17,A17,155,Cathedral Pkwy (110 St),"['C', 'B']"
+F06,F06,259,Kew Gardens-Union Tpke,"['F', 'E']"
+130,130,320,23 St,['1']
+A42,A42,175,Hoyt-Schermerhorn Sts,"['A', 'G', 'C']"
+R20,R20,602,14 St-Union Sq,"['R', 'W', 'N', 'Q']"
+224,224,438,135 St,"['3', '2']"
+N06,N06,75,20 Av,['N']
+A05,A05,145,190 St,['A']
+G35,G35,291,Clinton-Washington Avs,['G']
+616,616,374,E 143 St-St Mary's St,['6']
+J29,J29,94,Halsey St,['J']
+D22,D22,231,Grand St,"['D', 'B']"
+N10,N10,79,86 St,['N']
+252,252,347,Saratoga Av,['3']
+232,232,620,Borough Hall,"['3', '2']"
+M06,M06,111,Seneca Av,['M']
+H15,H15,203,Rockaway Park-Beach 116 St,['H']
+L13,L13,124,Montrose Av,['L']
+D10,D10,218,167 St,"['D', 'B']"
+257,257,352,New Lots Av,['3']
+502,502,443,Baychester Av,['5']
+G32,G32,288,Myrtle-Willoughby Avs,['G']
+215,215,428,174 St,"['2', '5']"
+F09,F09,606,Court Sq-23 St,"['M', 'E']"
+407,407,382,Fordham Rd,['4']
+A21,A21,159,81 St-Museum of Natural History,"['C', 'B']"
+Q01,Q01,623,Canal St,"['N', 'Q']"
+A53,A53,186,Van Siclen Av,['C']
+113,113,303,157 St,['1']
+603,603,362,Middletown Rd,"['6X', '6']"
+R34,R34,30,Prospect Av,['R']
+E01,E01,624,World Trade Center,['E']
+S03,S03,141,Park Pl,['FS']
+D31,D31,47,Newkirk Plaza,"['B', 'Q']"
+G19,G19,271,Steinway St,"['R', 'M']"
+F03,F03,256,Parsons Blvd,['F']
+133,133,323,Christopher St-Stonewall,['1']
+420,420,414,Bowling Green,"['4', '5']"
+609,609,367,St Lawrence Av,['6']
+116,116,306,125 St,['1']
+R11,R11,613,Lexington Av/59 St,"['R', 'W', 'N']"
+F18,F18,235,York St,['F']
+F31,F31,246,Avenue I,['F']
+B15,B15,62,55 St,['D']
+H09,H09,207,Beach 36 St,['A']
+M23,M23,107,Broad St,['J']
+625,625,396,96 St,"['6X', '6']"
+R17,R17,607,34 St-Herald Sq,"['N', 'R', 'W', 'Q']"
+901,901,610,Grand Central-42 St,['GS']
+142,142,635,South Ferry,['1']
+D06,D06,214,182-183 Sts,"['D', 'B']"
+640,640,622,Brooklyn Bridge-City Hall,"['4', '5', '6', '6X']"
+A14,A14,152,135 St,"['C', 'B']"
+211,211,424,Pelham Pkwy,['2']
+N07,N07,76,Bay Pkwy,['N']
+225,225,439,125 St,"['3', '2']"
+B14,B14,61,50 St,['D']
+R45,R45,39,Bay Ridge-95 St,['R']
+G28,G28,284,Nassau Av,['G']
+A33,A33,168,Spring St,"['C', 'E']"
+411,411,386,Mt Eden Av,['4']
+A09,A09,605,168 St,"['A', 'C']"
+G05,G05,278,Jamaica Center-Parsons/Archer,"['J', 'E']"
+109,109,299,Dyckman St,['1']
+R40,R40,34,53 St,['R']
+A59,A59,190,80 St,['A']
+A50,A50,183,Rockaway Av,['C']
+G14,G14,616,Jackson Hts-Roosevelt Av,"['M', 'R', 'F', 'E']"
+D35,D35,51,Kings Hwy,"['B', 'Q']"
+626,626,397,86 St,"['4', '5', '6', '6X']"
+R03,R03,2,Astoria Blvd,"['W', 'N']"
+216,216,429,Freeman St,"['2', '5']"
+D01,D01,210,Norwood-205 St,['D']
+706,706,450,103 St-Corona Plaza,['7']
+243,243,355,Winthrop St,"['2', '5']"
+F23,F23,608,4 Av-9 St,"['G', 'F']"
+F26,F26,242,Fort Hamilton Pkwy,"['G', 'F']"
+F38,F38,252,Avenue X,['F']
+205,205,418,233 St,['2']
+L16,L16,127,DeKalb Av,['L']
+L28,L28,137,East 105 St,['L']
+721,721,464,Vernon Blvd-Jackson Av,"['7X', '7']"
+621,621,392,125 St,"['4', '5', '6', '6X']"
+137,137,327,Chambers St,"['3', '2', '1']"
+A65,A65,195,Ozone Park-Lefferts Blvd,['A']
+B19,B19,66,18 Av,['D']
+M19,M19,103,Bowery,['J']
+R33,R33,608,4 Av-9 St,['R']
+239,239,626,Franklin Av-Medgar Evers College,"['3', '4', '2', '5']"
+636,636,407,Astor Pl,"['6X', '6']"
+D28,D28,44,Church Av,"['B', 'Q']"
+R28,R28,620,Court St,['R']
+J28,J28,93,Chauncey St,['J']
+712,712,456,61 St-Woodside,"['7X', '7']"
+D41,D41,56,Ocean Pkwy,['Q']
+J21,J21,88,Norwood Av,['J']
+L22,L22,621,Broadway Junction,['L']
+104,104,295,231 St,['1']
+G10,G10,263,63 Dr-Rego Park,"['R', 'M']"
+A28,A28,164,34 St-Penn Station,"['A', 'C', 'E']"
+H12,H12,200,Beach 90 St,['H']
+126,126,316,50 St,['1']
+120,120,310,96 St,"['3', '2', '1']"
+A45,A45,627,Franklin Av,['C']
+630,630,612,51 St,"['6X', '6']"
+N02,N02,71,8 Av,['N']
+235,235,617,Atlantic Av-Barclays Ctr,"['3', '4', '2', '5']"
+247,247,359,Flatbush Av-Brooklyn College,"['2', '5']"
+401,401,378,Woodlawn,['4']
+D17,D17,607,34 St-Herald Sq,"['D', 'F', 'M', 'B']"
+505,505,446,Morris Park,['5']
+L01,L01,618,8 Av,['L']
+718,718,461,Queensboro Plaza,"['7X', '7']"
+612,612,370,Whitlock Av,['6']
+M12,M12,98,Flushing Av,"['J', 'M']"
+228,228,624,Park Place,"['3', '2']"
+220,220,433,Jackson Av,"['2', '5']"
+D07,D07,215,Tremont Av,"['D', 'B']"
+L08,L08,120,Bedford Av,['L']
+B06,B06,222,Roosevelt Island,['F']
+J15,J15,83,Woodhaven Blvd,['J']
+F14,F14,232,2 Av,['F']
+253,253,348,Rockaway Av,['3']
