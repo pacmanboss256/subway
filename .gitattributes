@@ -3,3 +3,4 @@
 october_data/** filter=lfs diff=lfs merge=lfs -text
 sep20data/** filter=lfs diff=lfs merge=lfs -text
 sept27data/** filter=lfs diff=lfs merge=lfs -text
+gtfs_subway/** filter=lfs diff=lfs merge=lfs -text
